@@ -1,5 +1,7 @@
 # ☠️Login Dark-Uruma
 # 📌 Projeto: Tela de Login
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 Este é um projeto de tela de login, um dos meus primeiros projetos na área de programação.
 
